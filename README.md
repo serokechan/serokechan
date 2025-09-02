@@ -19,13 +19,13 @@ I’m currently a blockchain developer (still learning, hehe), mainly focusing o
 
 ### Languages and Tools:
 
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)](https://nextjs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Git](https://img.shields.io/badge/Git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%2361DAFB)](https://git-scm.com/)
 [![Terminal](https://img.shields.io/badge/Terminal-%2320232a.svg?style=for-the-badge&logo=terminal&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/Command-line_interface)
-[![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB)](https://redux.js.org/)
 [![Tailwind](https://img.shields.io/badge/tailwindcss-%2320232a?logo=tailwindcss&style=for-the-badge&logoColor=%2361DAFB)](https://tailwindcss.com)
 [![Solidity](https://img.shields.io/badge/solidity-%2320232a?logo=solidity&style=for-the-badge&logoColor=%2361DAFB)](https://soliditylang.org/)
 [![Python](https://img.shields.io/badge/python-%2320232a?logo=python&style=for-the-badge&logoColor=%2361DAFB)](https://www.python.org/)
